@@ -53,7 +53,7 @@ By @laz1yy
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @ZFoxStringBot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @FoxStringBot
 
 Group Support : [Gabung](https://t.me/arkabotsupport)
 
