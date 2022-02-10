@@ -13,7 +13,7 @@ Jika kamu tidak percaya bot ini,
 2) blokir bot atau delete chat
 
 Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @triplenineee
+By @laz1yy
     """
 
     # Home Button
