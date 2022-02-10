@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/SkyStringBot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/FoxStringBot)
 
 > A star ⭐ from you means a lot to us!
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyzu/skystring)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arkadiaz/Fox-string)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -66,9 +66,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Project](https://t.me/ProjectSkyzu)
+Channel :- [Project](https://t.me/arkabotupdate)
 
-Group Chat :- [Group support](https://t.me/skyzusupport)
+Group Chat :- [Group support](https://t.me/arkabotsupport)
 
 ## :)
 
