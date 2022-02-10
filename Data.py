@@ -29,12 +29,12 @@ By @triplenineee
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ​", url="https://t.me/triplenineee")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ​", url="https://t.me/laz1yy")],
         [
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴꜰo ʟᴀɪɴɴʏᴀ​", url="https://t.me/narumisupport")],
+        [InlineKeyboardButton("ɪɴꜰo ʟᴀɪɴɴʏᴀ​", url="https://t.me/arkabotsupport")],
     ]
 
     # Help Message
@@ -53,13 +53,13 @@ By @triplenineee
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @ZhuXstringBot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @ZFoxStringBot
 
-Group Support : [Gabung](https://t.me/narumisupport)
+Group Support : [Gabung](https://t.me/arkabotsupport)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @triplenineee
+Developer : @laz1yy
     """
